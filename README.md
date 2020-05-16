@@ -25,7 +25,7 @@ auth)" from the TMDb dashboard.</li>
     Movie App using Laravel, Tailwind CSS and The Movie DB REST API. I go over the different architecture options and the different popular technologies around the Laravel/Vue community. We'll be making use of several Laravel 7 features like the HTTP Client and Blade Components. We then style our application with the latest version of Tailwind CSS, using new features like CSS Grid and CSS Transitions.
     </p>
     
-     Click pic to watch the video about thie project 
+     Click pic to watch the video about this project 
     
     
     
@@ -33,7 +33,7 @@ auth)" from the TMDb dashboard.</li>
 
 
 
-[![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)
+[![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1acQSdcPQxYUqE-_qsYFly8K_mXlpA97N/view?usp=sharing)
 
 
 
