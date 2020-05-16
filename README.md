@@ -27,6 +27,5 @@ auth)" from the TMDb dashboard.</li>
 
 <video width="320" height="240" controls>
   <source src="https://drive.google.com/file/d/1acQSdcPQxYUqE-_qsYFly8K_mXlpA97N/view" type="video/mp4">
- 
 </video>
 
