@@ -35,6 +35,8 @@ auth)" from the TMDb dashboard.</li>
 
 [![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1acQSdcPQxYUqE-_qsYFly8K_mXlpA97N/view?usp=sharing)
 
+[![Watch the video](https://i.imgur.com/QBU30x7.png)](https://drive.google.com/file/d/1acQSdcPQxYUqE-_qsYFly8K_mXlpA97N/view?usp=sharing)
+
 
 
 
