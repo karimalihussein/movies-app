@@ -7,4 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<
+Installation
+1- lone the repo and cd into it
+2- composer install
+3- Rename or copy .env.example file to .env
+4- Set your TMDB_TOKEN in your .env file. You can get an API key <h1>here<a href="https://www.themoviedb.org/documentation/api"></h1>. Make sure to use the "API Read Access Token (v4 auth)" from the TMDb dashboard.
+
