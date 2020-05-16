@@ -28,7 +28,7 @@ auth)" from the TMDb dashboard.</li>
 
 
 
-<h1>Click pic to watch the video about thie project</h1>
+
 [![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)
 
 
