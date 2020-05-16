@@ -28,8 +28,7 @@ auth)" from the TMDb dashboard.</li>
 
 
 
-<a href="http://stackoverflow.com" target="_blank">
-[![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)</a>
+[![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)
 
 
 
