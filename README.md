@@ -26,7 +26,7 @@ auth)" from the TMDb dashboard.</li>
     </p>
     
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)
+[![Watch the video](https://i.imgur.com/dl0hV95.png)](https://drive.google.com/file/d/1MTY41BEkYC0Kr-s3_UkCk8ZpaU5FIKSb/view?usp=sharing)
 
 
 
